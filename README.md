@@ -1,4 +1,4 @@
-# Hello!  My name is Osnildo Junior
+# Hello!  My name is Osnildo Junior 🤘
 
 ## > Beginner programmer <
 
@@ -6,6 +6,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="20" height="20"/>
 
 -> Studying Java
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" height="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" height="20"/>a
+
+-> A Little JS/html/css 🤏
 
 ## -> Attending Computer Sciences college at IFSC Lages <-

@@ -14,4 +14,4 @@
 
 
 <a href="https://github.com/Murilo-Gotardo">
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Murilo-Gotardo&layout=compact&langs_count=7&theme=holi"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JuniorOsnildo&layout=compact&langs_count=7&theme=holi"/>

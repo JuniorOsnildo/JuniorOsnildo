@@ -13,5 +13,5 @@
 ## -> Attending Computer Sciences college at IFSC Lages <-
 
 
-<a href="https://github.com/Murilo-Gotardo">
+<a href="https://github.com/Junior-Osnildo">
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JuniorOsnildo&layout=compact&langs_count=7&theme=holi"/>
